@@ -1,0 +1,8 @@
+Django==1.11.7
+PyMySQL==0.7.11
+six==1.11.0
+requests
+
+qiniu==7.1.9
+raven==6.3.0
+django-qiniu-storage==2.3.1
